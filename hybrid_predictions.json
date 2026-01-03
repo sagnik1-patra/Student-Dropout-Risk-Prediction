@@ -1,0 +1,34 @@
+[
+    {
+        "actual_risk": 0.0,
+        "predicted_risk": -0.03912004083395004
+    },
+    {
+        "actual_risk": 0.8287037037037037,
+        "predicted_risk": -0.06133241951465607
+    },
+    {
+        "actual_risk": 0.0,
+        "predicted_risk": -0.0252893827855587
+    },
+    {
+        "actual_risk": 0.0,
+        "predicted_risk": -0.06101349741220474
+    },
+    {
+        "actual_risk": 0.738197424892704,
+        "predicted_risk": -0.05894026905298233
+    },
+    {
+        "actual_risk": 0.0,
+        "predicted_risk": -0.030578872188925743
+    },
+    {
+        "actual_risk": 0.0,
+        "predicted_risk": -0.04914599657058716
+    },
+    {
+        "actual_risk": 0.0,
+        "predicted_risk": -0.05720772594213486
+    }
+]
