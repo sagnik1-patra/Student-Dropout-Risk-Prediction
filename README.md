@@ -1,4 +1,4 @@
-🎓 Intelligent Student Dropout Risk Prediction Using Hybrid Metaheuristic Optimizers
+🎓 Intelligent Student Dropout Risk Prediction Using Hybrid Metaheuristic Optimizers.
 📌 Project Overview
 
 Student dropout is a critical challenge faced by educational institutions, especially in developing regions. Early identification of dropout risk helps policymakers and institutions design timely interventions.
